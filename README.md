@@ -1,14 +1,14 @@
 ## Bhargava Sai Kumar Chittapudi
 
-I am a full Stack Developer with more than 8 years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. I have extensively worked on react, node and typescript for the last 5 years.
+I am a full stack developer with more than 8 years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. I have extensively worked on react, node and typescript for the last 4 years. I have a keen interest in learning new technologies to make the development job easy.
 
 ---
 
 ## Skills
 ```
-* HTML      * CSS     * Javascript
-* Typescript
-* React     * Node    * AWS
+* HTML          * CSS          * Javascript
+* Typescript    * Postgresql
+* React         * Node         * AWS
 
 ```
 
@@ -56,7 +56,7 @@ I am a full Stack Developer with more than 8 years of experience in frontend, ba
 * Test-Driven Development using Jasmine, Karma.
 
 ### **FRONTEND DEVELOPER**
-### Accenture
+### Accenture, India
 
 **Ebill** — _Developer_
 * Responsibilities include End to end development using Angular in the front end and Node and Java Restful APIs in the backend. 
@@ -72,7 +72,7 @@ I am a full Stack Developer with more than 8 years of experience in frontend, ba
 * Primarility worked on JavaScript, jQuery, CSS3, Bootstrap 3, HTML5, Nunjucks. 
 
 ### **SOFTWARE DEVELOPER**
-### Infosys
+### Infosys, India
 
 **Request Center V5.0** - _Junior Java Developer_
 
@@ -88,3 +88,7 @@ I am a full Stack Developer with more than 8 years of experience in frontend, ba
 ### **Rajiv Gandhi University of Knowledge Technologies**
 ### BTech Electronics(Major), Computer Science(Minor) (2010- 2014)
 GPA 9.23
+
+## Interests
+
+Apart from being a software developer. I enjoy visiting different places and trying various cuisines in my free time.

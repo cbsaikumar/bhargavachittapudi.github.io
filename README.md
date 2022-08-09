@@ -1,6 +1,7 @@
 ## Bhargava Sai Kumar Chittapudi
 
-I am a full stack developer with more than 8 years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. I have extensively worked on react, node and typescript for the last 4 years. I have a keen interest in learning new technologies to make the development job easy.
+I am a full stack developer with more than 8 years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. 
+I have extensively worked on react, node and typescript for the last 4 years. I have a keen interest in learning new technologies to make the development job easy.
 
 ---
 
@@ -91,4 +92,5 @@ GPA 9.23
 
 ## Interests
 
-Apart from being a software developer. I enjoy visiting different places and trying various cuisines in my free time.
+Apart from being a software developer. 
+I enjoy visiting different places and trying various cuisines in my free time.

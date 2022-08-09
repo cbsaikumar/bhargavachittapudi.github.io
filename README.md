@@ -6,13 +6,9 @@ I am a full Stack Developer with more than 8 years of experience in frontend, ba
 
 ## Skills
 ```
-HTML
-CSS
-Javascript
-Typescript
-React
-Node
-AWS
+* HTML      * CSS     * Javascript
+* Typescript
+* React     * Node    * AWS
 
 ```
 
@@ -32,7 +28,7 @@ AWS
 ### **SENIOR SOFTWARE DEVELOPER**
 ### EPAM, Spain
 
-** Visualization ** - Senior Developer
+**Visualization** - _Senior Developer_
 * Responsible to develop a product for running financial simulations. 
 * Primarily working on new features, improvement of existing components, bug fixing.
 * Development of web application using React on Frontend and Scala FP on backend.
@@ -42,7 +38,7 @@ AWS
 ### **SENIOR SOFTWARE DEVELOPER**
 ### EPAM, India
 
-** Adapative Trial Design ** - Senior Developer
+**Adapative Trial Design** - _Senior Developer_
 * Responsible for the development of the app from MVP phase to Production-ready app. 
 * Been a critical part of the app since the requirements gathering, setup the application structure to delivery.
 * Development of Responsive web portal using React and Material UI which allows biostatisticians to record and perform various clinical trials simulations.
@@ -50,7 +46,7 @@ AWS
 * Development and maintenance of REST API’s using Node JS, Express with Postgres as DB which acts as a backend for React portal and manages the authentication/authorization.
 * Implemented easily maintainable/configurable UI forms to control validations, labels etc from the JSON config stored in db.
 
-** Search UI ** - Full-Stack Developer
+**Search UI** - _Full-Stack Developer_
 * Responsibilities include working with clients in Agile scrum methodology. 
 * Implemented a feature RICH application from scratch using Angular 8 and Node. 
 * This involved hours of research as the existing app is built on Polymer, successfully accommodated ever-changing requirements and delivered tailor-made solutions to achieve high-performance requirements. 
@@ -61,13 +57,13 @@ AWS
 ### **FRONTEND DEVELOPER**
 ### Accenture
 
-** Ebill ** — Developer
+**Ebill** — _Developer_
 * Responsibilities include End to end development using Angular in the front end and Node and Java Restful APIs in the backend. 
 * Proactively involved in performance and profiling of the application along with regular development. 
 * Handled service layer using Node and Schema design using Mongoose. 
 * Played a key developer role in the project involving multiple clients facing meetings.
 
-** LIAS, Pharma Portfolio Portal ** - Frontend Developer
+**LIAS, Pharma Portfolio Portal** - _Frontend Developer_
 
 * Responsibilities include implementing the UI based on mockup screens provided. 
 * Code optimization by making use of Nunjucks template engine to avoid hardcoding of data. 
@@ -77,7 +73,7 @@ AWS
 ### **SOFTWARE DEVELOPER**
 ### Infosys
 
-** Request Center V5.0 ** - Junior Java Developer
+**Request Center V5.0** - _Junior Java Developer_
 
 * Responsibilities include understanding the client requirements and tranforming them into workable solutions. 
 * Developing features and bug fixing using Spring MVC/JAX-RS with Hibernate framework. 

@@ -9,8 +9,8 @@ I have extensively worked on react, node and typescript for the last 4 years. I 
 ## Skills
 ```
 * HTML          * CSS          * Javascript
-* Typescript    * Postgresql
-* React         * Node         * AWS
+* Typescript    * Postgresql.  * AWS
+* React         * Node         * Angular         
 
 ```
 
@@ -19,9 +19,10 @@ I have extensively worked on react, node and typescript for the last 4 years. I 
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png' height='40' width='40' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/>
    <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="node" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="node" width="40" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1351573137855373312/NusaOfNL_400x400.jpg" alt="node" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="ts" width="40" height="40"/>
+  <img src="https://pbs.twimg.com/profile_images/1351573137855373312/NusaOfNL_400x400.jpg" alt="aws" width="40" height="40"/>
 </p>
 
 ---
@@ -60,7 +61,7 @@ I have extensively worked on react, node and typescript for the last 4 years. I 
 ### **FRONTEND DEVELOPER**
 ### Accenture, India
 
-**Ebill** — _Developer_
+**Ebill** - _Developer_
 * Responsibilities include End to end development using Angular in the front end and Node and Java Restful APIs in the backend. 
 * Proactively involved in performance and profiling of the application along with regular development. 
 * Handled service layer using Node and Schema design using Mongoose. 
@@ -93,6 +94,4 @@ GPA 9.23
 
 ## Interests
 
-Apart from being a software developer. 
-
-I enjoy visiting different places and trying various cuisines in my free time.
+I enjoy watching movies, visiting different places and trying out various cuisines in my free time.

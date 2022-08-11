@@ -32,7 +32,7 @@ I have extensively worked on react, node and typescript for the last 4 years. I 
 ### **SENIOR SOFTWARE DEVELOPER**
 ### EPAM, Spain
 
-**Visualization** - _Senior Developer_
+**Visualization** - _Full Stack Developer_
 * Responsible to develop a product for running financial simulations. 
 * Primarily working on new features, improvement of existing components, bug fixing.
 * Development of web application using React on Frontend and Scala FP on backend.
@@ -42,7 +42,7 @@ I have extensively worked on react, node and typescript for the last 4 years. I 
 ### **SENIOR SOFTWARE DEVELOPER**
 ### EPAM, India
 
-**Adapative Trial Design** - _Senior Developer_
+**Adapative Trial Design** - _Full Stack Developer_
 * Responsible for the development of the app from MVP phase to Production-ready app. 
 * Been a critical part of the app since the requirements gathering, setup the application structure to delivery.
 * Development of Responsive web portal using React and Material UI which allows biostatisticians to record and perform various clinical trials simulations.
@@ -50,7 +50,7 @@ I have extensively worked on react, node and typescript for the last 4 years. I 
 * Development and maintenance of REST API’s using Node JS, Express with Postgres as DB which acts as a backend for React portal and manages the authentication/authorization.
 * Implemented easily maintainable/configurable UI forms to control validations, labels etc from the JSON config stored in db.
 
-**Search UI** - _Full-Stack Developer_
+**Search UI** - _Senior Developer_
 * Responsibilities include working with clients in Agile scrum methodology. 
 * Implemented a feature RICH application from scratch using Angular 8 and Node. 
 * This involved hours of research as the existing app is built on Polymer, successfully accommodated ever-changing requirements and delivered tailor-made solutions to achieve high-performance requirements. 
